@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A1iakbar
 - 👀 I’m interested in Python Programming Language
-- 🌱 I’m currently learning different libraries of Python, also trying to acquire knowledge about Data Analysis.
+- 🌱 I’m currently learning different libraries of Python, also trying to acquire knowledge about Data Analysis, Machine Learning.
 - 📫 You can reach me via email raliakbar27@gmail.com 
 
 <!---
